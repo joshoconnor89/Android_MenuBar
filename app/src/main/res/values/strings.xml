@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyPlaces</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="subway">Central Subway</string>
+    <string name="park">La Jolla Park</string>
+    <string name="date20141015">Oct 15, 2014</string>
+    <string name="date20141004">Oct 4, 2014</string>
+    <string name="one_place_title">Place</string>
+    <string name="action_search">Search</string>
+</resources>
